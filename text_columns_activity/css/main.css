@@ -1,0 +1,12 @@
+/*article {                   
+	column-count: 4;
+}*/
+/*article {
+ 	column-width: 100;
+}*/
+article {
+	column-count: 4;
+	column-width: 150px;
+	column-gap: 100px;
+	column-rule: 2px solid blue;
+}
